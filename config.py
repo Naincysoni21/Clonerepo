@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Vishnusoni14")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "ZeixBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Google_music_rebot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ZeiX")
+BOT_NAME = getenv("BOT_NAME" , "𝐆ᴏᴏɢʟᴇ 𝐌ᴜsɪᴄ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "ZeixPro")
+ASSUSERNAME = getenv("ASSUSERNAME")
 # ---------------------------------------------------------
 
 
@@ -32,14 +32,14 @@ API_KEY = getenv("API_KEY")
 #---------------------------------------------------------------
 
 # ----------------------------------------------------------------
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002478982051))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002195645178))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7226893567))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rocky9852/ZeixBots",
+    "https://github.com/Naincysoni21/Clonerepo",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SaregamaUpdate")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SaregamaSupport")
-SOURCE = getenv("SOURCE", "https://t.me/SaregamaSupport")
-CHAT = getenv("CHAT", "https://t.me/SaregamaSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOOGLE_MUSIC_UPDATE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOOGLE_MUSIC_SUPPORT")
+SOURCE = getenv("SOURCE", "https://t.me/GOOGLE_MUSIC_UPDATE")
+CHAT = getenv("CHAT", "https://t.me/GOOGLE_MUSIC_SUPPORT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,13 +139,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/c61b0474536561616b0a9-88166664659d4173c9.jpg"
+    "START_IMG_URL", "https://envs.sh/rIV.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/c61b0474536561616b0a9-88166664659d4173c9.jpg"
+    "PING_IMG_URL", "https://envs.sh/rIV.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/5f6635e528adf8f682ee6-b25a6861c6a4fdfa1a.jpg"
-STATS_IMG_URL = "https://graph.org/file/13135b2d94228e1a30945-2d74a247e615aeee65.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/rIV.jpg"
+STATS_IMG_URL = "https://envs.sh/rIV.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/8507e4058424d71d05884-c08ce07c38846ff394.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/8507e4058424d71d05884-c08ce07c38846ff394.jpg"
 STREAM_IMG_URL = "https://graph.org/file/5f6635e528adf8f682ee6-b25a6861c6a4fdfa1a.jpg"
@@ -184,4 +184,4 @@ if SUPPORT_CHAT:
 # ----------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------
 
-CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002061652056))
+CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002195645178))
