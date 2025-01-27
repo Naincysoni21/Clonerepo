@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴢᴇɪx ダ ᴍᴜsɪᴄ 」──
+    ──「 GOOGLE MUSIC 」──
 </h2>
 
 <p align="center">
