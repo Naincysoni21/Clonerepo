@@ -229,10 +229,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/Rocky_dtm"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/Vishnusoni14"
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ", url=f"https://t.me/SaregamaSupport"
+                text="ᴄʜᴀᴛ", url=f"https://t.me/GOOGLE_MUSIC_SUPPORT"
             ),
         ],
 
